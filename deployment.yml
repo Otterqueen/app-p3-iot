@@ -18,4 +18,4 @@ spec:
         image: wil42/playground
         tag: v1
         ports:
-        - containerPort: 8080
+        - containerPort: 8888
